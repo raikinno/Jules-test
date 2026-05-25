@@ -1,2 +1,6 @@
 # Ignore generated image files
 *.png
+
+# Python cache
+__pycache__/
+*.pyc
